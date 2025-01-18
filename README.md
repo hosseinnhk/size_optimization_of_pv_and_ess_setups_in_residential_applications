@@ -64,6 +64,4 @@ Hossein Nourollahi Hokmabad, Oleksandr Husev, Jarek Kurnitski, Juri Belikov, "Op
 ![Image](https://github.com/user-attachments/assets/7b544ba2-9d94-49dc-bfbb-6018a4cf9bf2)
 ![Image](https://github.com/user-attachments/assets/576a2b5f-6ad1-41e0-892e-a0adfe61086a)
 ![Image](https://github.com/user-attachments/assets/0e6c430a-426a-47b6-91fa-2be7d59c09d0)
-![Image](https://github.com/user-attachments/assets/534a14e8-9df6-445e-a15c-25659566c97d)
-![Image](https://github.com/user-attachments/assets/a5a430bf-71a7-4c17-ace8-fd4ad1753915)
 ![Image](https://github.com/user-attachments/assets/3979a6a6-e8a9-42c0-a735-f32fb3b8445f)
