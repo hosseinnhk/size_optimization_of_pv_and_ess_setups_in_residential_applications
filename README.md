@@ -49,6 +49,7 @@ If you use this repository in your research, please cite the following paper:
 Hossein Nourollahi Hokmabad, Oleksandr Husev, Jarek Kurnitski, Juri Belikov, "Optimizing size and economic feasibility assessment of photovoltaic and energy storage setup in residential applications," *Sustainable Energy, Grids and Networks*, Volume 38, 2024, 101385, DOI: [10.1016/j.segan.2024.101385](https://doi.org/10.1016/j.segan.2024.101385)
 
 ![Image](https://github.com/user-attachments/assets/4a04164e-74a1-4187-bd13-94c388389db8)
+![Image](https://github.com/user-attachments/assets/a635582b-186d-4e91-a9b9-018bc1a9649c)
 ![Image](https://github.com/user-attachments/assets/5a2b6b3d-9995-4f65-a671-92c1c1876cc9)
 ![Image](https://github.com/user-attachments/assets/219673a6-a7d9-4d76-adb2-409da13da1f3)
 ![Image](https://github.com/user-attachments/assets/f3ecca39-c789-4677-aea2-1ecce275c9eb)
